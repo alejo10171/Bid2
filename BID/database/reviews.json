@@ -1,0 +1,30 @@
+[
+  {
+    "id_book": "3432a",
+    "name_book": "The Lord of the Rings",
+    "stars": 5,
+    "img": "lordRings.webp",
+    "review": "The Lord of the Rings is an epic high fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold."
+  },
+  {
+    "id_book": "3432b",
+    "name_book": "Harry Potter and the Philosopher's Stone",
+    "stars": 5,
+    "img": "harry.jpg",
+    "review": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. "
+  },
+  {
+    "id_book": "3432c",
+    "name_book": "The Hobbit",
+    "img": "hobbit.jpg",
+    "stars": 4,
+    "review": "The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien. It was published on 21 September 1937 to wide critical acclaim, being nominated for the Carnegie Medal and awarded a prize from the New York Herald Tribune for best juvenile fiction. The book remains popular and is recognized as a classic in children's literature."
+  },
+  {
+    "id_book": "3432d",
+    "name_book": "And Then There Were None",
+    "stars": 3,
+    "img": "and.jpg",
+    "review": "And Then There Were None is a mystery novel by English writer Agatha Christie, widely regarded as her masterpiece and described by her as the most difficult of her books to write. It was first published in the United Kingdom by the Collins Crime Club on 6 November 1939, as Ten Little"
+  }
+]

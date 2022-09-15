@@ -1,0 +1,28 @@
+header {
+  display: flex;
+  width: 100vw;
+  background-color: rgb(247, 241, 241);
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0.625rem;
+  position: fixed;
+  height: 7.5rem;
+  top: 0;
+}
+
+header img {
+  width: 9.375rem;
+  cursor: pointer;
+}
+
+.menu {
+  display: flex;
+  gap: 1.25rem;
+  margin-right: 3.125rem;
+}
+
+.menu a {
+  text-decoration: none;
+  color: var(--primary-color);
+  font-weight: bold;
+}
